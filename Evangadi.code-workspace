@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../../.."
+	},
+	{
+		"path": "../../../../extracted doc"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Evangadi"
+  }
+}
